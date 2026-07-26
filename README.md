@@ -107,7 +107,7 @@ http://localhost:5173
 **Live Website**
 
 ```
-https://your-live-link.com
+https://naimulislamsaikat.github.io/shipnow_admin/
 ```
 
 ---
@@ -146,8 +146,8 @@ https://github.com/your-backend-repository
 **Naimul Islam**
 
 - GitHub: https://github.com/naimulislamsaikat
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://your-portfolio.com
+- LinkedIn: https://www.linkedin.com/in/naimul-islam-297b12250/
+- Portfolio: https://naimulislamsaikat.github.io/Portfolio/
 
 ---
 
