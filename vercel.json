@@ -1,4 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "build"
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "build",
+  "installCommand": "pnpm install"
 }
