@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shipnow_admin/static/css/main.a2575bbf.css",
+    "main.js": "/shipnow_admin/static/js/main.cd3245fa.js",
+    "static/js/453.712dbe74.chunk.js": "/shipnow_admin/static/js/453.712dbe74.chunk.js",
+    "index.html": "/shipnow_admin/index.html",
+    "main.a2575bbf.css.map": "/shipnow_admin/static/css/main.a2575bbf.css.map",
+    "main.cd3245fa.js.map": "/shipnow_admin/static/js/main.cd3245fa.js.map",
+    "453.712dbe74.chunk.js.map": "/shipnow_admin/static/js/453.712dbe74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2575bbf.css",
+    "static/js/main.cd3245fa.js"
+  ]
+}
