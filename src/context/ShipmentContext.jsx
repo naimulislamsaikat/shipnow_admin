@@ -7,15 +7,15 @@ export const ShipmentProvider = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [currentView, setCurrentView] = useState('dashboard');
   const [user, setUser] = useState({
-    name: 'John Doe',
-    email: 'john@shipnow.com',
+    name: 'Naimul Islam',
+    email: 'naimulislam.dev@shipnow.com',
     role: 'Admin',
-    phone: '+1 (555) 234-7890',
+    phone: '+880 1308-320991',
     company: 'ShipNow Logistics Inc.',
     location: 'San Francisco, CA, USA',
     bio: 'Logistics administrator overseeing global freight operations and supply chain optimizations.',
-    joinedDate: 'January 2023',
-    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200'
+    joinedDate: 'January 2026',
+    avatar: 'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80'
   });
 
   const [shipments, setShipments] = useState(initialShipments);
@@ -38,9 +38,9 @@ export const ShipmentProvider = ({ children }) => {
 
   const login = (email) => {
     setIsAuthenticated(true);
-    setUser((prev) => ({ ...prev, email: email || 'john@shipnow.com' }));
+    setUser((prev) => ({ ...prev, email: email || 'naimulislam.dev@shipnow.com' }));
     setCurrentView('dashboard');
-    showToast('Welcome back, John! Logged in successfully.');
+    showToast('Welcome back, Naimul! Logged in successfully.');
   };
 
   const logout = () => {
