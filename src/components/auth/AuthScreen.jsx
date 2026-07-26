@@ -72,7 +72,7 @@ export const AuthScreen = () => {
                 <input
                   type="text"
                   placeholder="Enter your full name"
-                  defaultValue="John Doe"
+                  
                   className="auth-input"
                   required
                 />
